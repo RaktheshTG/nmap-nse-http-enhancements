@@ -1,3 +1,9 @@
+-- Cyber Security course (Fall Semester 2026-2027), School of Computer Science and Engineering (SCOPE), VIT Chennai
+-- Assignment: enhancement of Nmap's http-title.nse
+-- Author: Rakthesh
+-- Guided by: Dr. T. Subbulakshmi, Professor, SCOPE, VIT Chennai
+-- Based on: http-title.nse (author: Diman Todorov)
+-- License: same as Nmap (https://nmap.org/book/man-legal.html), which is based on the GNU GPL with additional terms
 description = [[
 Extends http-title by reporting the HTTP status code, the page title,
 and which common security headers the server sends or omits.
